@@ -15,6 +15,7 @@ export class ThedokPatientDetailsComponent implements OnInit {
       {label: 'Doku', icon: PrimeIcons.FOLDER_OPEN},
       {label: 'Befunde', icon: PrimeIcons.CHART_LINE},
       {label: 'MAAs', icon: PrimeIcons.USER_PLUS},
+      {label: 'bisherige Hilfen/Ansprechpartner', icon: PrimeIcons.USER_PLUS},
       {label: 'Gespräche', icon: PrimeIcons.COMMENTS}
   ];
   }
